@@ -1,0 +1,57 @@
+[
+{
+    "id": 1,
+    "nombre": "Blend de la Casa",
+    "imagen": "cafe-brasil.jpg",
+    "descripcion": "Balanceado y versátil, se adapta a cualquier método y gusto.",
+    "valor": 4690,
+    "estrellas": "*****"
+},
+
+{
+    "id": 2,
+    "nombre": "Café de Brasil",
+    "imagen": "cafe-brasil.jpg",
+    "descripcion": "CAFÉ DE BRASIL TOSTADO. Chocolate, Frutos Secos. Variedad: Bourbon Amarillo. Procesamiento: Natural. Altitud: 1.600 mts. Beneficio Pedra Blanca, Carmo de Minas. Tostado en la Patagonia.",
+    "valor": 4270,
+    "estrellas": "*****"
+},
+
+{
+    "id": 3,
+    "nombre": "Colombia Rosado",
+    "imagen": "cafe-brasil.jpg",
+    "descripcion": "CAFÉ DE COLOMBIA. BOURBÓN ROSADO. Umami, Frutal, Brillantes, se bebe mejor sin agregarle Leche. Variedad: Bourbón Rosado. Procesamiento: Lavado, Doble Fermentación. Altitud: 1.670 mts. Producido en Finca El Oasis, región de Huila, Colombia.  Tostado en Bariloche.",
+    "valor": 5490,
+    "estrellas": "****"
+},
+
+{
+    "id": 4,
+    "nombre": "Cafe de Etiopía",
+    "imagen": "cafe-etiopia.jpg",
+    "descripcion": "CAFÉ DE ETIOPÍA. GUJI. NATURAL. Durazno, Floral. Procesamiento: Natural Altitud: 2.000 mts.Producido en la Región de Guji, Etiopía. Tostado en Bariloche.",
+    "valor": 1710,
+    "estrellas": "*****"
+},
+
+{
+    "id": 5,
+    "nombre": "Cafe de Honduras",
+    "imagen": "cafe-honduras.jpg",
+    "descripcion": "CAFÉ DE HONDURAS TOSTADO. Don Fabio Caballero. Mucho Cuerpo, Azúcar Morena, Sandía. Café más tradicional, puede combinarse con leche. Variedad: Catuai. Procesamiento: Natural Altitud: 1.350 mts.Finca Las Corinas, Marcala, Honduras. Tostado en Bariloche.",
+    "valor": 1190,
+    "estrellas": "*****"
+
+},
+
+{
+    "id": 6,
+    "nombre": "Cafe de Nicaragua Natural",
+    "imagen": "cafe-nicaragua.jpg",
+    "descripcion": "CAFÉ DE NICARAGUA. ETHIOSAR. Chocolate, Madera. Café Natural, intenso. Recomendado para quienes beben su café con leche agregada. Variedad: Ethiosar. Procesamiento: Natural Altitud: 1.400 mts.Finca San José, región de Jinotega, Nicaragua. Tostado en Bariloche.",
+    "valor": 1870,
+    "estrellas": "****"
+
+}
+]

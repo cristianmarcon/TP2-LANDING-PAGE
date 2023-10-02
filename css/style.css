@@ -1,0 +1,74 @@
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
+
+  
+
+  body {
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    margin: 2%;
+}
+
+
+h1 {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    background-color: rgba(0, 110, 114, 0.822);
+    margin: 0;
+    padding: 3%;
+}
+
+p {
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-size: large;
+}
+
+div {
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+}
+
+.card {
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgba(155, 152, 152, 0.425);
+}
+
+
+h3 {
+    font-family: 'Rubik', sans-serif;
+}
+
+
+footer {
+    text-align: center;
+}
+
+img {
+width: 100px;
+}
+
+.puntuacion-estrellas {
+    text-align: center;
+  }
+  
+  .estrella-llena {
+    color: gold;
+    font-size: 35px;
+    margin-right: 4px;
+  }
+  
+  
+  .estrella-vacia {
+    color: lightgray;
+    font-size: 35px;
+    margin-right: 4px;
+  }
+
